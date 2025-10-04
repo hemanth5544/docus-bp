@@ -2,7 +2,8 @@
   "name": "Boiler Plate",
   "scripts": {
     "dev": "nuxt dev --extends docus",
-    "build": "nuxt build --extends docus"
+    "build": "nuxt build --extends docus",
+    "start": "nuxt start --extends docus"
   },
   "dependencies": {
     "docus": "latest",
